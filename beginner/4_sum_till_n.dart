@@ -1,5 +1,13 @@
-//Write a program that asks the user for a number n
-//and prints the sum of the numbers 1 to n
+/*Write a program that asks the user for a number n
+and prints the sum of the numbers 1 to n
+*/
+
+/*
+Topics Learned:
+function returns
+for loop
+int.parse
+*/
 
 import 'dart:io';
 

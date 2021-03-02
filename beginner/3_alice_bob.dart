@@ -1,5 +1,15 @@
-// Modify the previous program(2_user_input)
-// such that only the users Alice and Bob are greeted with their names
+/*
+Modify the previous program(2_user_input)
+such that only the users Alice and Bob are greeted with their names
+*/
+
+/*
+Topics Learned:
+functions (cehckAliceOrBob())
+parameters (checkAliceOrBob(String nameToCheck))
+conditional statements (if and else)
+bitwise operator ||
+*/
 
 import 'dart:io';
 

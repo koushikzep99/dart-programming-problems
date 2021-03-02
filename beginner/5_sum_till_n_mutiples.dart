@@ -1,5 +1,7 @@
-//Modify the previous program(4_sum_till_n) such that only
-//multiples of three or five are considered in the sum,
+/*
+Modify the previous program(4_sum_till_n) such that only
+multiples of three or five are considered in the sum,
+*/
 
 import 'dart:io';
 

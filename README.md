@@ -5,6 +5,8 @@
 ### How to use this Resource
 1. The problems listed below are categorized into 4 categories. Beginner,List and Strings,Intermediate and Advanced.
 2. Each question has a link to an answer which resides in this repository for you to check.
+3. On each solution i've listed the topics and techniques learned from that particular exercise. so it's easier to check the documentation for further reading
+4. I'm learning Dart along with this project. so any tips or criticism are much welcome. 
 
 #### Note: The answer list is not complete. i'm adding it as i finish them. i will delete this note when all the answers are added.
 
@@ -28,7 +30,7 @@
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/5_sum_till_n_mutiples.dart)
 6. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
 7. Write a program that prints a multiplication table for numbers up to 12.
-8. Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+8. Write a program that prints all the prime numbers from 1 to 100.
 9. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
 10. Write a program that prints the next 20 leap years.
 
