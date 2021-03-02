@@ -29,7 +29,9 @@
    + e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/5_sum_till_n_mutiples.dart)
 6. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/6_sum_or_product.dart)
 7. Write a program that prints a multiplication table for numbers up to 12.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/7_multiplication_table.dart)
 8. Write a program that prints all the prime numbers from 1 to 100.
 9. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
 10. Write a program that prints the next 20 leap years.
