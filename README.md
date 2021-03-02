@@ -16,11 +16,16 @@
 ## Beginner Problems
 
 1. Write a program that prints ‘Hello World’ to the screen.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/1_hello_world.dart)
 2. Write a program that asks the user for their name and greets them with their name.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/2_user_input.dart)
 3. Modify the previous program such that only the users Alice and Bob are greeted with their names.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/3_alice_bob.dart)
 4. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/4_sum_till_n.dart)
 5. Modify the previous program such that only multiples of three or five are considered in the sum, 
    + e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/5_sum_till_n_mutiples.dart)
 6. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
 7. Write a program that prints a multiplication table for numbers up to 12.
 8. Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
