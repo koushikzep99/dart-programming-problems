@@ -1,6 +1,6 @@
 # Dart Programming Problems 
 
-### Note: All the problems listed here are taken from this amazing resource titled [Simple Programming Problems](https://adriann.github.io/programming_problems.html) by [Adrian Neumann](https://github.com/adrianN).Check out his site for awesome additional content on the questions.
+### Note: the problems listed here are mostly taken from this amazing resource titled [Simple Programming Problems](https://adriann.github.io/programming_problems.html) by [Adrian Neumann](https://github.com/adrianN).Check out his site for awesome additional content on the questions.
 
 ### How to use this Resource
 1. The problems listed below are categorized into 4 categories. Beginner,List and Strings,Intermediate and Advanced.
@@ -32,9 +32,8 @@
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/6_sum_or_product.dart)
 7. Write a program that prints a multiplication table for numbers up to 12.
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/7_multiplication_table.dart)
-8. Write a program that prints all the prime numbers from 1 to 100.
-9. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
-10. Write a program that prints the next 20 leap years.
+8. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+9. Write a program that prints the next 20 leap years.
 
 ## Lists and Strings
 
