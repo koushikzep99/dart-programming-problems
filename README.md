@@ -34,7 +34,9 @@
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/7_multiplication_table.dart)
 8. Write a guessing game where the user has to guess a random number from 1 to 20.After every guess the program tells the user whether their number was too large from the number or too small till the user guesses the right number. At the end the number of tries needed should be printed. 
    + for example the end output would be , you guessed the right number , you took 6 tries.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/8_larger_or_smaller.dart)
 9. Write a program that prints the next 20 leap years.
+   + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/9.leap_year.dart)
 
 ## Lists and Strings
 
