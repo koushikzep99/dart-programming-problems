@@ -32,7 +32,8 @@
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/6_sum_or_product.dart)
 7. Write a program that prints a multiplication table for numbers up to 12.
    + [Solution](https://github.com/koushikzep99/dart-programming-problems/blob/main/beginner/7_multiplication_table.dart)
-8. Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+8. Write a guessing game where the user has to guess a random number from 1 to 20.After every guess the program tells the user whether their number was too large from the number or too small till the user guesses the right number. At the end the number of tries needed should be printed. 
+   + for example the end output would be , you guessed the right number , you took 6 tries.
 9. Write a program that prints the next 20 leap years.
 
 ## Lists and Strings
